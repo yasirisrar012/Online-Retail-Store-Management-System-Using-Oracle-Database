@@ -70,9 +70,9 @@ indexes, and analytical queries.
 
 ---
 
-## Key SQL Concepts Implemented
-- **DDL:** Table creation with constraints (PK, FK, UNIQUE, CHECK).
+## Key SQL Concepts Implemented:
+- **DDL:** Database object creation, deletion and modification using (CREATE, ALTER, RENAME, DROP and TRUNCATE)  with constraints (PK, FK, UNIQUE, CHECK).
 - **DML:** Insert, Update, and Delete operations.
-- **DQL:** Advanced queries using `WHERE`, `GROUP BY`, `HAVING`, etc.
+- **DQL:** Advanced SELECT queries using `WHERE`, `GROUP BY`, `HAVING`, etc.
 - **Indexes & Views:** Performance optimization and abstraction.
 - **PL/SQL:** Functions and Procedures.
