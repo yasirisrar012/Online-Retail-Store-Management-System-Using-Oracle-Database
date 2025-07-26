@@ -69,6 +69,28 @@ indexes, and analytical queries.
 - **Orders ↔ Payments:** One-to-One.
 
 ---
+## Tasks performed:
+- **Task-1:** Create the tables and a user who have some privileges granted making use of DDL and DCL SQL Commands like CREATE, RENAME, ALTER and GRANT.
+- **Task-2:** Insert Sample records into the tables created using DML SQL Commands like Insert statements and understand the working of UPDATE, DELETE and SELECT statements.
+- **Task-3:** Answer the following key questions using DQL commands like SELECT statement combining with WHERE, AND, OR, NOT, LIKE, IS IN, JOINS, GROUP BY, HAVING and Aggregation Functions (SUM, COUNT, AVG, MIN and MAX):
+1. Find all products priced above 20000
+2. Get customers from the city Delhi
+3. Find products in Electronics category priced above 10,000
+4. List customers who live in Delhi or Mumbai
+5. Get all customers not from Mumbai
+6. Find customers whose first name starts with 'J'
+7. Find customers whose last name ends with 'z'
+8. Find the products that contain the word 'on'
+9. Find customers whose second letter in first_name is 'o'
+10. Find customers whose second last letter in first_name is 'o'
+11. Find total number of orders placed by each customer
+12. Find the count, maximum, minimum, and average price of each category of product
+13. Find categories with total inventory value greater than 100,000
+14. Find the top 5 customers (by total order amount) from Delhi or Mumbai
+- **Task-4:** Create Views for top selling products and query using SELECT statement.
+- **Task-5:** Create an index on product name for faster search.
+- **Task-6:** Create a PL/SQL function which returns total number of products based on category and also test the function by passing a sample value using dual.
+- **Task-7:** Create a PL/SQL procedure to update the stock in products table and execute the procedure using EXEC statement.
 
 ## Key SQL Concepts Implemented:
 - **DDL:** Database object creation, deletion and modification using (CREATE, ALTER, RENAME, DROP and TRUNCATE)  with constraints (PK, FK, UNIQUE, CHECK).
