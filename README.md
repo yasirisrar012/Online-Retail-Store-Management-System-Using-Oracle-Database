@@ -7,8 +7,8 @@ covers DDL, DML, DQL, joins, PL/SQL (functions and procedures), views,
 indexes, and analytical queries.
 
 ## Tools I Used:
-**1. Oracle 21c Database XE:** For database creation and SQL execution.
-**2. Oracle SQL Developer:** For writing and testing SQL/PLSQL scripts.
+1. **Oracle 21c Database XE:** For database creation and SQL execution.
+2. **Oracle SQL Developer:** For writing and testing SQL/PLSQL scripts.
 
 ## Database Schema:
 ### **1. Customers Table**  
